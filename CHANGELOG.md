@@ -1,5 +1,12 @@
 # MKA Analyse App — Changelog
 
+## Versie 1.0.1 — 12 mei 2026
+- Auto-update systeem toegevoegd — app checkt bij opstarten op nieuwe versie
+- Update banner fix — werd altijd getoond, nu alleen bij echte update
+- Trajecten tab: rapport accepteert nu ook toekomstige rapporten
+- Roostercheck: fase2 vereist nu overlappende begeleider (zelfde tijden)
+- Kansen analyse: vrije dagen tellen niet meer mee als inwerk kans
+
 ## Versie 1.0.0 — 12 mei 2026
 ### Eerste officiële versie
 - Splash screen bij opstarten voor rapport inlezen
